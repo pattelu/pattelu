@@ -18,7 +18,7 @@ I'm Patryk. QA with experience in two areas: Web Apps and Video Games. I was abl
 - Gained experience with different devices.
 	- Testing on physical Mobile Devices (Android, iOS, Windows Phone), but also through the BrowserStack.
 	- Testing and setting up for tests different gaming platforms:
-		- Consols (Xbox One, Xbox Series X|S, PlayStation 4, PlayStation 5, Nintendo Switch).
+		- Consoles (Xbox One, Xbox Series X|S, PlayStation 4, PlayStation 5, Nintendo Switch).
 		- VR Platforms (GearVR, Oculus Rift, Windows Mixed Reality).
 - I have occasion to managing and coordinating a small team.
 
