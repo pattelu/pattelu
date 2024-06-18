@@ -1,6 +1,6 @@
 ## :shipit: Hello there
 
-Hello, I'm Patryk. QA with exeprience in two areas: Web Apps and Video Games. I was able to gain some skills during my QA adventure:
+I'm Patryk. QA with exeprience in two areas: Web Apps and Video Games. I was able to gain some skills during my QA adventure:
 - Got familiar with Jira and Azure DevOps.
 	- Reporting bugs, but also Test Tasks (Azure DevOps):
 	- Creating Test Cases in both environment. (Xray, Azure Test Plans).
