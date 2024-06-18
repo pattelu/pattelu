@@ -13,6 +13,8 @@ I'm Patryk. QA with experience in two areas: Web Apps and Video Games. I was abl
 	- Postman.
 	- SQL.
 	- AWS Docker.
+ 	- TeamCity.
+  	- Jenkins (Deployment).
 - Gained experience with different devices.
 	- Testing on physical Mobile Devices (Android, iOS, Windows Phone), but also through the BrowserStack.
 	- Testing and setting up for tests different gaming platforms:
