@@ -1,8 +1,8 @@
-## :shipit: Hello there
+## 👋 Hello there
 
 I'm Patryk. QA with exeprience in two areas: Web Apps and Video Games. I was able to gain some skills during my QA adventure:
 - Got familiar with Jira and Azure DevOps.
-	- Reporting bugs, but also Test Tasks (Azure DevOps):
+	- Reporting bugs, but also creating Test Tasks (Azure DevOps).
 	- Creating Test Cases in both environment. (Xray, Azure Test Plans).
 - Got familiar with different type of tests:
 	- Acceptance Testing.
@@ -13,21 +13,21 @@ I'm Patryk. QA with exeprience in two areas: Web Apps and Video Games. I was abl
 	- Postman.
 	- SQL.
 	- AWS Docker.
-- I have occasion to managing and coordinating a small team.
 - Gained experience with different devices.
 	- Testing on physical Mobile Devices (Android, iOS, Windows Phone), but also through the Browserstack.
 	- Testing and setting up for tests different gaming platforms:
 		- Consols (Xbox One, Xbox Series X|S, PlayStation 4, PlayStation 5, Nintendo Switch
 		- VR Platforms (GearVR, Oculus Rift, Windows MIxed Reality)
+- I have occasion to managing and coordinating a small team.
 
-:dart: Projects:
+### :dart: Projects:
 - I'm currently working on that portfolio. :sweat_smile:
 - Study Notes (In Progress). :mortar_board:
 
-:computer: Tools:
+### :computer: Tools:
 - Cypress 
 
-:speech_balloon: Where to find me?
+### :speech_balloon: Where to find me?
 - [LinkedIn](https://www.linkedin.com/in/patryktelus/)
 
 <!--
